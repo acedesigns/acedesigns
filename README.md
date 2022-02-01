@@ -4,11 +4,9 @@
 - 🔭 I’m currently working on ... `actually, I am open to work`
 - 🌱 I’m currently learning [Flutter](https://flutter.dev/).
 - 👯 I’m looking to collaborate on ... `ReactJs, React Native, Angular`
-- 🤔 I’m looking for help with ...
 - 💬 Ask me about ...`TypeScript`
-- 📫 How to reach me: ... [aceDesigns](http://acedesigns.co.za/)
+- 📫 How to reach me: ... [aceDesigns](http://acedesigns.co.za/) `"I will update it soon"`
 - ⚡ Fun fact: ... `Elephants Cannot Jump` I certainly did not realise that.
-
   ##
 <div> 
   <a href="https://twitter.com/anele_ace" target="_blank"><img src="https://img.shields.io/badge/twitter-00acee?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a> 

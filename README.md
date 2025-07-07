@@ -6,10 +6,13 @@
 - 🔭 I’m currently working on ... `actually, I am open to work`
 - 🌱 I finished learning [Flutter](https://flutter.dev/).
 - 👯 I’m looking to collaborate on ... `ReactJs, React Native, Angular, Laravel, NestJs and of-course Flutter`
-- 💬 Ask me about ...`TypeScript`
+- 💬 Ask me about ...`TypeScript, Android, Kotlin, Java, Flutter, Web,`
 - 📫 How to reach me: ... [aceDesigns](http://acedesigns.co.za/) `"Now Updated"`
 - ⚡ Fun fact: ... `Elephants Cannot Jump` I certainly did not realise that.
   ##
+  Innovative and results-oriented Full Stack Engineer with over 13+ years of experience building user-focused digital solutions from concept to deployment.
+  ##
+
 <div> 
   <a href="https://twitter.com/anele_ace" target="_blank"><img src="https://img.shields.io/badge/twitter-00acee?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a> 
   <!--<a href="" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 

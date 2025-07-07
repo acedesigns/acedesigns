@@ -1,11 +1,13 @@
-### Hi there 👋
+# Hi there 👋 I'm Anele
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=acedesigns&label=Profile%20views&color=0e75b6&style=flat" alt="acedesigns" /> </p>
 
 
 - 🔭 I’m currently working on ... `actually, I am open to work`
 - 🌱 I finished learning [Flutter](https://flutter.dev/).
-- 👯 I’m looking to collaborate on ... `ReactJs, React Native, Angular, NestJs and of-course Flutter`
+- 👯 I’m looking to collaborate on ... `ReactJs, React Native, Angular, Laravel, NestJs and of-course Flutter`
 - 💬 Ask me about ...`TypeScript`
-- 📫 How to reach me: ... [aceDesigns](http://acedesigns.co.za/) `"I will update it soon"`
+- 📫 How to reach me: ... [aceDesigns](http://acedesigns.co.za/) `"Now Updated"`
 - ⚡ Fun fact: ... `Elephants Cannot Jump` I certainly did not realise that.
   ##
 <div> 
@@ -20,3 +22,5 @@
   <!-- ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg) -->
  
 </div>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> </p>

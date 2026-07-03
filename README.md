@@ -4,7 +4,7 @@
 
 
 - 🔭 I’m currently working on ... `actually, I am open to work`
-- 🌱 I finished learning [Flutter](https://flutter.dev/).
+- 🌱 I have so many [Flutter](https://flutter.dev/) apps.
 - 👯 I’m looking to collaborate on ... `ReactJs, React Native, Angular, Laravel, NestJs and of-course Flutter`
 - 💬 Ask me about ...`TypeScript, Android, Kotlin, Java, Flutter, Web,`
 - 📫 How to reach me: ... [aceDesigns](http://acedesigns.co.za/) `"Now Updated"`

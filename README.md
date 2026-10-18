@@ -26,9 +26,14 @@
 ![JavaScript](https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=for-the-badge)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Python](https://img.shields.io/badge/-python-336791?style=for-the-badge&logo=python&logoColor=white)
+![NodeJs](https://img.shields.io/badge/node.Js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Firebse](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
+![PostMan](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge?logo=postman&logoColor=white)
+
 
 ---
 
+#### On The Socials 
 <div> 
   <a href="https://twitter.com/anele_ace" target="_blank"><img src="https://img.shields.io/badge/twitter-00acee?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a> 
   <!--<a href="" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 

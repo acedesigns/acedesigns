@@ -10,7 +10,7 @@
 - 📫 How to reach me: ... [aceDesigns](http://acedesigns.co.za/) `"Now Updated"`
 - ⚡ Fun fact: ... `Elephants Cannot Jump` I certainly did not realise that.
   ##
-  Innovative and results-oriented Full Stack Engineer with over 13+ years of experience building user-focused digital solutions from concept to deployment.
+  Innovative and results-oriented Full Stack Engineer with over 15+ years of experience building user-focused digital solutions from concept to deployment.
   ##
 
 #### Proficient in 
